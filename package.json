@@ -1,12 +1,12 @@
 {
     "name": "company1",
-    "version": "1.0.0",
-    "description": "A brief description of your project",
-    "main": "index.js",
-    "scripts": {
-        "start": "http-server ./ -p $PORT"
-    },
-    "dependencies": {
-        "http-server": "^14.1.1"
-    }
+"version": "1.0.0",
+"description": "A brief description of your project",
+"scripts": {
+    "start": "http-server ./ -p $PORT"
+},
+"dependencies": {
+    "http-server": "^14.1.1"
+}
+
 }
